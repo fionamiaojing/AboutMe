@@ -23,30 +23,32 @@ const About = () => {
             <hr/>
             <div className='section'>Skill Sets</div>
             <table>
-                <tr>
-                    <td>Front-end: </td>
-                    <td>
-                    React, Redux, React-Router, React Native, JQuery, HTML, CSS,  Angular, Backbone, MVC Architecture
-                    </td>
-                </tr>
-                <tr>
-                    <td>Back-end: </td>
-                    <td>
-                    Node.js, Express, MongoDB, Mongoose, MySQL, PostreSQL, Cassendra, Redis, Service Oriented Architecture
-                    </td>
-                </tr>
-                <tr>
-                    <td>DevTools: </td>
-                    <td>
-                    Docker, Git, AWS, Google Cloud App Engine, Babel, Webpack, Chai, Mocha, Jest, Enzyme, Nginx, Heroku
-                    </td>
-                </tr>
-                <tr>
-                    <td>Language: </td>
-                    <td>
-                    Javascript, Python, Swift
-                    </td>
-                </tr>
+                <tbody>
+                    <tr>
+                        <td>Front-end: </td>
+                        <td>
+                        React, Redux, React-Router, React Native, JQuery, HTML, CSS,  Angular, Backbone, MVC Architecture
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Back-end: </td>
+                        <td>
+                        Node.js, Express, MongoDB, Mongoose, MySQL, PostreSQL, Cassendra, Redis, Service Oriented Architecture
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>DevTools: </td>
+                        <td>
+                        Docker, Git, AWS, Google Cloud App Engine, Babel, Webpack, Chai, Mocha, Jest, Enzyme, Nginx, Heroku
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Language: </td>
+                        <td>
+                        Javascript, Python, Swift
+                        </td>
+                    </tr>
+                </tbody>
             </table>
 
         </div>

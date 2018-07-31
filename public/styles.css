@@ -101,3 +101,29 @@ table {
 td {
     vertical-align: top;
 }
+
+.ptitle {
+    font-family: 'Dancing Script';
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+
+.pdes {
+    font-size: 20px;
+    font-style: italic;
+    margin-bottom: 20px;
+}
+
+.contactInfo {
+    font-size: 20px;
+    font-style: italic;
+    color: white
+}
+
+.info {
+    margin-top: 20px;
+}
+
+.infodet {
+    margin-left: 30px;
+}
