@@ -9,7 +9,7 @@ const Project = () => {
             <div className='pdes'>
                 -- A Diary App for writing stories, mark ideas, choose feelings for dialy use.
             </div>
-            <img src="https://github.com/fionamiaojing/DearDiary/blob/solo/deardiary.gif" width="375" height="812" />
+            <img src="https://github.com/fionamiaojing/DearDiary/blob/solo/deardiary.gif" alt="diary app demo" width="375" height="812" />
             <br/>
             <hr/>
             <br/>
@@ -19,7 +19,7 @@ const Project = () => {
             <div className='pdes'>
                 -- A Clone of Etsy
             </div>
-            <img src="https://github.com/hrsf-narwhal/product-info-purchase/blob/master/Itsy_demo.gif" />
+            <img src="https://github.com/hrsf-narwhal/product-info-purchase/blob/master/Itsy_demo.gif" alt="Itsy app demo"/>
             <br/>
             <hr/>
             <br/>
@@ -32,7 +32,7 @@ const Project = () => {
             <div>
                 Throughput and Latency Demo
             </div>
-            <img src="https://github.com/AbleTableHR95/fiona-menus/blob/master/Abletable.png"/>
+            <img src="https://github.com/AbleTableHR95/fiona-menus/blob/master/Abletable.png" alt="backend performance demo"/>
         </div>
     );
 };
