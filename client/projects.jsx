@@ -19,7 +19,7 @@ const Project = () => {
             <div className='pdes'>
                 -- A Clone of Etsy
             </div>
-            <img src="/itsyDemo.gif" alt="Itsy app demo" width="640" height="360"/>
+            <img src="/AboutMe/public/itsyDemo.gif" alt="Itsy app demo" width="640" height="360"/>
             <br/>
             <hr/>
             <br/>
