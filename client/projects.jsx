@@ -9,7 +9,7 @@ const Project = () => {
             <div className='pdes'>
                 -- A Diary App for writing stories, mark ideas, choose feelings for dialy use.
             </div>
-            <img src="/diaryDemo.gif" alt="diary app demo" width="375" height="812" />
+            <img src="/AboutMe/public/diaryDemo.gif" alt="diary app demo" width="375" height="812" />
             <br/>
             <hr/>
             <br/>
