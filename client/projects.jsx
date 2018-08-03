@@ -9,7 +9,7 @@ const Project = () => {
             <div className='pdes'>
                 -- A Diary App for writing stories, mark ideas, choose feelings for dialy use.
             </div>
-            <img src="/AboutMe/diaryDemo.gif" alt="diary app demo" width="375" height="812" />
+            <img src="/AboutMe/public/diaryDemo.gif" alt="diary app demo" width="375" height="812" />
             <br/>
             <hr/>
             <br/>
@@ -33,7 +33,7 @@ const Project = () => {
                 Throughput and Latency Demo
             </div>
             <br/>
-            <img src="/Abletable.png" alt="backend performance demo" width="640" height="360"/>
+            <img src="/AboutMe/public/Abletable.png" alt="backend performance demo" width="640" height="360"/>
             <hr/>
             <div className='ptitle'>
                 Twittler
@@ -41,7 +41,7 @@ const Project = () => {
             <div className='pdes'>
                 -- A chat app
             </div>
-            <img src="/twittler.gif" alt="Twittler demo"/>
+            <img src="/AboutMe/public/twittler.gif" alt="Twittler demo"/>
             <hr/>
             <div className='ptitle'>
                 IsTodayFriday
@@ -49,7 +49,7 @@ const Project = () => {
             <div className='pdes'>
                 -- An ISO App for fun
             </div>
-            <img src="/isTodayFriday.gif" alt=""/>
+            <img src="/AboutMe/public/isTodayFriday.gif" alt=""/>
             <br/>
             <div className='end'>
                 To be continued....
