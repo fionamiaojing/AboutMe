@@ -115,6 +115,10 @@ td {
     font-style: italic;
     margin-bottom: 20px;
 }
+.tech {
+    font-size: 18px;
+    margin: 20px 0;
+}
 
 .contactInfo {
     font-size: 20px;
